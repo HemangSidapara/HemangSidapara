@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**HemangSidapara/HemangSidapara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 About Me  
+I'm a **Flutter Developer** with expertise in **Dart**, **GetX**, **BLoC**, and **Provider** for state management. I also have experience in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **SQL**.
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- **Frontend:** Flutter, Dart, GetX, BLoC, Provider  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **Other:** REST APIs, Firebase, Git, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience  
+I have **3+ years of experience** in building scalable and efficient Flutter applications, integrating APIs, and optimizing performance.  
+
+## 🌱 Currently Learning  
+Exploring **advanced Flutter animations**, **microservices architecture**, **cloud functions** and more to explore in backend.  
+
+## 📫 Connect with Me  
+- **LinkedIn:** [hemang-sidapara](https://www.linkedin.com/in/hemang-sidapara-250266168/)  
+- **GitHub:** [HemangSidapara](https://github.com/HemangSidapara)  
+- **Email:** [hemang.sidapara@gmail.com](hemang.sidapara@gmail.com)  
+
