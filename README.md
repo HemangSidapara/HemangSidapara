@@ -18,5 +18,5 @@ Exploring **advanced Flutter animations**, **microservices architecture**, **clo
 ## 📫 Connect with Me  
 - **LinkedIn:** [hemang-sidapara](https://www.linkedin.com/in/hemang-sidapara-250266168/)  
 - **GitHub:** [HemangSidapara](https://github.com/HemangSidapara)  
-- **Email:** [hemang.sidapara@gmail.com](hemang.sidapara@gmail.com)  
+- **Email:** [hemang.sidapara@gmail.com](mailto:hemang.sidapara@gmail.com)  
 
