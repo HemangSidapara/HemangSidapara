@@ -25,7 +25,7 @@ I'm a **Flutter Developer** with expertise in **Dart**, **GetX**, **BLoC**, and 
 - **Other:** REST APIs, Firebase, Git, CI/CD  
 
 ## 💼 Experience  
-I have **3+ years of experience** in building scalable and efficient Flutter applications, integrating APIs, and optimizing performance.  
+I have **4+ years of experience** in building scalable and efficient Flutter applications, integrating APIs, and optimizing performance.  
 
 ## 🌱 Currently Learning  
 Exploring **advanced Flutter animations**, **microservices architecture**, **cloud functions** and more to explore in backend.  
