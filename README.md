@@ -20,7 +20,7 @@ I'm a **Flutter Developer** with expertise in **Dart**, **Riverpod**, **GetX**, 
 </p>
 
 ## 🔧 Skills  
-- **Frontend:** Flutter, Dart, GetX, BLoC, Provider  
+- **Frontend:** Flutter, Dart, Riverpod, GetX, BLoC, Provider  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, SQL  
 - **Other:** REST APIs, Firebase, Git, CI/CD  
