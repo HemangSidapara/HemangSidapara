@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 🚀 About Me  
-I'm a **Flutter Developer** with expertise in **Dart**, **GetX**, **BLoC**, and **Provider** for state management. I also have experience in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **SQL**.
+I'm a **Flutter Developer** with expertise in **Dart**, **Riverpod**, **GetX**, **BLoC**, and **Provider** for state management. I also have experience in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **SQL**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
